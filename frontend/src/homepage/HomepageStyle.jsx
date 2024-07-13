@@ -24,7 +24,7 @@ export const searchButtonGrp = {
 }
 
 export const myLocationBtn = {
-   minWidth:'0',
+   minWidth: '0',
    marginLeft: '8px'
 }
 
@@ -32,8 +32,10 @@ export const searchButton = {
    marginBottom: '10px'
 }
 
-export const cardContent = {
-
+export const travelModeLay = {
+   display:'flex',
+   justifyContent: 'space-evenly',
+   marginTop:'30px'
 }
 
 export const infoBoxLay = {
